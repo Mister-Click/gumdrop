@@ -1,4 +1,4 @@
-# Hit circle and cursor(tbd) generator for OSU! game very WIP
+# Hitcircle and cursor generator for OSU! game. Very WIP
 
 Try here: https://mister-click.github.io/gumdrop/
 
@@ -7,14 +7,22 @@ Try here: https://mister-click.github.io/gumdrop/
 ![gumdropSolarCursor](https://github.com/user-attachments/assets/d58abf8f-bb25-4213-84b2-1db3f440f68c)
 ![gumdropButtonCursor](https://github.com/user-attachments/assets/d4df146b-7b31-4646-a0d3-4d28e7ae740a)
 
+
 # Working
-- Generating hitcircle, hitcircleoverylay, approachcircle
-- TripleStacked skin generation with a selection of fonts
+- Hitcircle, HitCircleOverylay, ApproachCircle
+- TripleStack (only lol)
+
+# Partial
+- Instafade, currently you must manually match your layers. 
 
 # Missing
-- Cursor UI
-- Instafade
+- Non-TripleStack rendering. 
+- Cursor generation UI
 - Legible UI
-- Normal digits generation
-- Glass / fresnel / glow effects for circle parts
-- Generating all the center dot circles for non-digit players
+- Glass / fresnel / glow effects. 
+- Dot
+
+# Priority
+1. Non-TripleStack
+2. Instafade
+3. UI
