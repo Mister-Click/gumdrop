@@ -9,7 +9,8 @@ Try here: https://mister-click.github.io/gumdrop/
 
 
 # Working
-- Hitcircle, HitCircleOverylay, ApproachCircle, Default-x
+- HitCircle, HitCircleOverylay, ApproachCircle, Default-x
+- Crisp generation by SDF (outdated images above) 
 - TripleStack (only lol)
 - Separated default-x (for fun color blending stuff with TS/IF skins)
 
@@ -30,4 +31,5 @@ Try here: https://mister-click.github.io/gumdrop/
 4. UI upgrade
 5. Effects
 6. Cursor UI
-7. UI upgrade
+7. More circle and cursor generation styles/effects
+8. UI upgrade
