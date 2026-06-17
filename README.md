@@ -9,20 +9,25 @@ Try here: https://mister-click.github.io/gumdrop/
 
 
 # Working
-- Hitcircle, HitCircleOverylay, ApproachCircle
+- Hitcircle, HitCircleOverylay, ApproachCircle, Default-x
 - TripleStack (only lol)
+- Separated default-x (for fun color blending stuff with TS/IF skins)
 
 # Partial
-- Instafade, currently you must manually match your layers. 
+- InstaFade, currently you must manually match your layers. 
 
 # Missing
-- Non-TripleStack rendering. 
+- Non-TripleStack rendering
 - Cursor generation UI
 - Legible UI
-- Glass / fresnel / glow effects. 
+- Glass / fresnel / glow effects
 - Dot
 
 # Priority
 1. Non-TripleStack
 2. Instafade
-3. UI
+3. Dot
+4. UI upgrade
+5. Effects
+6. Cursor UI
+7. UI upgrade
